@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion de Cifrado.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion_de_Cifrado.Form1.resources
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion_de_Cifrado.Properties.Resources.resources
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion de Cifrado.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion de Cifrado.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\bin\Debug\Aplicacion de Cifrado.exe.config
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\bin\Debug\Aplicacion de Cifrado.exe
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\bin\Debug\Aplicacion de Cifrado.pdb
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion de Cifrado.exe
+C:\Users\hp\source\repos\Aplicacion de Cifrado\Aplicacion de Cifrado\obj\Debug\Aplicacion de Cifrado.pdb
